@@ -16,8 +16,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "index"}
-  - {file: "README.md", "readme"}
+  - {file: "pub.md", title: "Publications"}
+  - {file: "teach.md", title: "Supervision/Teaching"}
+  - {file: "event.md", title: "Events"}
+  - {file: "CV_SD_English.pdf", title: "CV"}
+  - {file: "other.md", title: "Others"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sarah.djebali@inserm.fr"}
