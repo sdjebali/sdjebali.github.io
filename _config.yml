@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "pub.md", title: "Publications"}
   - {file: "teach.md", title: "Supervision/Teaching"}
   - {file: "event.md", title: "Event organisation"}
-  - {file: "CV_SD_English.pdf", title: "CV"}
+  - {url: "https://web-genobioinfo.toulouse.inrae.fr/~sdjebali/CV_SD_English.pdf", title: "CV"}
   - {file: "misc.md", title: "Miscellaneous"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
