@@ -26,6 +26,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: "Mail", icon: envelope, url: "mailto:sarah.djebali@inserm.fr"}
   - {title: "Github", icon: github, url: "https://github.com/sdjebali"}
   - {title: "ORCID", icon: id-card, url: "https://orcid.org/0000-0002-0599-1267"}
+  - {title: "LinkedIn", icon: linkedin, url: "https://www.linkedin.com/in/sarah-djebali-quelen-1544416/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
