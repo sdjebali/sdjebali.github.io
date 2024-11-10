@@ -1,4 +1,8 @@
-## Courses
+[Courses](#courses)
+
+[Supervision](#supervision)
+
+## Courses <a name="courses"></a>
 I have given the following courses:
 <table>
   <thead>
@@ -63,7 +67,7 @@ I have given the following courses:
   </tbody>
 </table>
 
-## Supervision
+## Supervision <a name="supervision"></a>
 During my career, I have (co-)supervised the following people:
 <table>
   <thead>
