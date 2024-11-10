@@ -32,18 +32,18 @@ I have been in the following thesis juries:
       <td>March 18th 2024</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Audric Cologne</td>
+      <td>Lyon</td>
+      <td>Exploration of the role of minor splicing in embryonic development: the Taybi-Linder syndrome model</td>
+      <td>Examiner</td>
+      <td>Oct 10th 2019</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Amadis Pages</td>
+      <td>Pompeu Fabra, Barcelona</td>
+      <td>Computational tools for the study of RNA processing and function</td>
+      <td>Examiner</td>
+      <td>Oct 27th 2016</td>
     </tr>
   </tbody>
 </table>
