@@ -127,7 +127,7 @@ During my career, I have (co-)supervised the following people:
     </tr>
     <tr>
       <td>Pierre Guenzi-Tibéri</td>
-      <td>Development of a `Nextflow` pipeline for quantifying the expression of small RNAs from high-throughput sequencing data</td>
+      <td>Development of a Nextflow pipeline for quantifying the expression of small RNAs from high-throughput sequencing data</td>
       <td>M1</td>
       <td>50%</td>
       <td>June to August 2021</td>
@@ -168,46 +168,46 @@ During my career, I have (co-)supervised the following people:
       <td>November 2012 to October 2015</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Bernardo Rodríguez Martín</td>
+      <td>Chimeric transcript identification in vertebrate genomes</td>
+      <td>M2 and PhD student</td>
+      <td>100% and 30%</td>
+      <td>January 2013 to October 2016</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Emilio Palumbo</td>
+      <td>Robust pipeline development for the analysis of HTS functional data</td>
+      <td>Engineer</td>
+      <td>80%</td>
+      <td>November 2012 to October 2015</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Angelika Merkel</td>
+      <td>Human transcriptome characterisation through the analysis of multiple types of HTS transcriptomic data</td>
+      <td>Postdoc</td>
+      <td>50%</td>
+      <td>January 2010 to November 2012</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Matthieu Muffato</td>
+      <td>Development of a user interface for the Exogean gene identification program</td>
+      <td>M1</td>
+      <td>80%</td>
+      <td>April to July 2006</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Charles Vejnar</td>
+      <td>Development of a pseudogene detection module for the Exogean gene identification program</td>
+      <td>M1</td>
+      <td>80%</td>
+      <td>April to July 2005</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Khaled Yahiaoui</td>
+      <td>Improvement and evaluation of Exogean, a eukaryotic gene identification program</td>
+      <td>M2</td>
+      <td>80%</td>
+      <td>January to July 2005</td>
     </tr>
   </tbody>
 </table>
