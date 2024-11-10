@@ -1,8 +1,8 @@
-[PhD jury](phdjury)
+[PhD jury](#phdjury)
 
-[HDR jury](hdrjury)
+[HDR jury](#hdrjury)
 
-[PhD committee](phdcommittee)
+[PhD committee](#phdcommittee)
 
 ## PhD jury <a name="phdjury"></a>
 I have been in the following thesis juries:
