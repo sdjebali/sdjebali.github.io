@@ -125,5 +125,89 @@ During my career, I have (co-)supervised the following people:
       <td>100%</td>
       <td>September 2020 to February 2022</td>
     </tr>
+    <tr>
+      <td>Pierre Guenzi-Tibéri</td>
+      <td>Development of a `Nextflow` pipeline for quantifying the expression of small RNAs from high-throughput sequencing data</td>
+      <td>M1</td>
+      <td>50%</td>
+      <td>June to August 2021</td>
+    </tr>
+    <tr>
+      <td>Claire Martin</td>
+      <td>Combining enhancer/gene relationships and genetic data to identify new variants and genes associated to Parkinson's disease</td>
+      <td>Engineer</td>
+      <td>50%</td>
+      <td>September 2020 to March 2021</td>
+    </tr>
+    <tr>
+      <td>Camille Mestre</td>
+      <td>Genome-wide identification of enhancer/gene relationships</td>
+      <td>M2</td>
+      <td>60%</td>
+      <td>January to July 2018</td>
+    </tr>
+    <tr>
+      <td>Matthew Smart</td>
+      <td>Comparison of chromatin accessibility and chromatin structure data</td>
+      <td>L3</td>
+      <td>70%</td>
+      <td>March to September 2017</td>
+    </tr>
+    <tr>
+      <td>Nikki Gentle</td>
+      <td>Transcriptional Signatures of Viral Control in HIV-1 Infected South African Women</td>
+      <td>PhD student</td>
+      <td>30%</td>
+      <td>January to July 2014</td>
+    </tr>
+    <tr>
+      <td>Alessandra Breschi</td>
+      <td>Human and mouse transcriptome comparison</td>
+      <td>PhD student</td>
+      <td>50%</td>
+      <td>November 2012 to October 2015</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
