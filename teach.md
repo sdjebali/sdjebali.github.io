@@ -1,3 +1,4 @@
+## Courses
 I have given the following courses:
 <table>
   <thead>
@@ -62,5 +63,67 @@ I have given the following courses:
   </tbody>
 </table>
 
-
- 
+## Supervision
+During my career, I have (co-)supervised the following people:
+<table>
+  <thead>
+    <tr>
+      <th width=150px>Name</th>
+      <th width=450px>Project</th>
+      <th width=100px>Level</th>
+      <th width=100px>Supervision ratio</th>
+      <th width=200px>Dates</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Victor Lefebvre</td>
+      <td>Divergence of duplicated genes' cis-regulatory landscape</td>
+      <td>M2</td>
+      <td>33%</td>
+      <td>January to July 2024</td>
+    </tr>
+    <tr>
+      <td> Océane Carpentier</td>
+      <td>Knowledge graphs to identify miRNA/gene relationships</td>
+      <td>M2</td>
+      <td>50%</td>
+      <td>January to July 2024</td>
+    </tr>
+       <tr>
+      <td>Martin Racoupeau</td>
+      <td>Comparison of methods for microRNA identification\</td>
+      <td>M2</td>
+      <td>50%</td>
+      <td>January to July 2023</td>
+    </tr>
+       <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+       <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+       <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+       <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
