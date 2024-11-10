@@ -77,7 +77,56 @@ I have been in the following HDR (Habilitation a Diriger des Recherches) juries:
     </tr>
     </tbody>
 </table>
+
 ## PhD committee <a name="phdcommittee"></a>
-I have been in the following thesis committees:
+I have been/am in the following thesis committees:
+<table>
+  <thead>
+      <tr>
+      <th width=150px>PhD student</th>
+      <th width=150px>University</th>
+      <th width=550px>Title</th>
+      <th width=150px>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Naomi Schickele</td>
+      <td>UPS, Toulouse</td>
+      <td>Variability of gene expression depending on the 3D organization of the genome: Analyzes using single cell genomic methods</td>
+      <td>From 2024</td>
+    </tr>
+    <tr>
+      <td>Ismael Blanchard</td>
+      <td>Bordeaux</td>
+      <td>Genomic imprints of selection and effect of genetic variation on the phenotypes of two species of forest (sessile oak) and fruit (apricot) trees: focus on structural variants</td>
+      <td>From 2024</td>
+    </tr>   
+    <tr>
+      <td>Natacha Roussel</td>
+      <td>UPS, Toulouse</td>
+      <td>REPOS: REsPonse to Chemotherapy in Osteosarcoma</td>
+      <td>From 2023</td>
+    </tr>
+    <tr>
+      <td>Jacobo Solorzano</td>
+      <td>UPS, Toulouse</td>
+      <td>Better understanding tumor microenvironment in pancreatic cancer</td>
+      <td>2021-2024</td>
+    </tr>   
+    <tr>
+      <td>Vincent Rocher</td>
+      <td>UPS, Toulouse</td>
+      <td>Data analysis and model for the study of chromatin, G-quadruplexes and DNA repair</td>
+      <td>2020-2023</td>
+    </tr>
+    <tr>
+      <td>Celine Le Beguec</td>
+      <td>Rennes</td>
+      <td>Integrative analysis of long non-coding RNAs in dogs and their implications in canine oral melanoma, a model of human melanomas</td>
+      <td>2014-2017</td>
+    </tr>   
+  </tbody>
+</table>
 
 
