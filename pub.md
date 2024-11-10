@@ -1,4 +1,7 @@
 I have contributed to the following publications:
+* Gerber Z, Fisun M, Aschard H, **Djebali S**, 2024, *PaintorPipe: a pipeline for genetic variant fine-mapping using functional annotations. Bioinformatics Advances*, 4(1), p.vbad188
+* Kurylo C, Guyomar C, Foissac S, **Djebali S**, 2023, *TAGADA: a scalable pipeline to improve genome annotations with RNA-seq data*, NAR Genomics and Bioinformatics, 5(4), p.lqad089
+* Eché C, Iampietro C, Birbes C, Dréau A, Kuchly C, Di Franco A, Klopp C, Faraut T, **Djebali S**, Castinel A and Zytnicki M, 2023, *A Bos taurus sequencing methods benchmark for assembly, haplotyping, and variant calling*, Scientific Data, 10(1), p.369
 * Hoellinger H, Mestre C, Aschard H, Le Goff W, Foissac S, Faraut T, **Djebali S**, 2023, *Enhancer/gene relationships: need for more reliable genome-wide reference sets*, Frontiers in Bioinformatics, 24(3):1092853
 * Jehl F, Degalez F, Bernard M, Lecerf F, Lagoutte L, Désert C, Coulée M, Bouchez O, Leroux S, Abasht B, Tixier-Boichard M, Bed’hom B, Burlot T, Gourichon D, Bardou P, Acloque H, Foissac S, **Djebali S**, Giuffra E, Zerjal T, Pitel F, Klopp C, Lagarrigue S, 2021, *RNA-Seq Data for Reliable SNP Detection and Genotype Calling: Interest for Coding Variant Characterization and Cis-Regulation Analysis by Allele-Specific*, Frontiers in Genetics, 12:655-707
 * Robic A, Faraut T, Feve K, **Djebali S**, Prunier A, Larzul C, Liaubet L, 2021, *Correlation networks provide new insights into the architecture of testicular steroid pathways in pigs*, Genes, 12(4):551
