@@ -90,40 +90,40 @@ During my career, I have (co-)supervised the following people:
       <td>50%</td>
       <td>January to July 2024</td>
     </tr>
-       <tr>
+    <tr>
       <td>Martin Racoupeau</td>
-      <td>Comparison of methods for microRNA identification\</td>
+      <td>Comparison of methods for microRNA identification</td>
       <td>M2</td>
       <td>50%</td>
       <td>January to July 2023</td>
     </tr>
-       <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+    <tr>
+      <td>Zoé Gerber</td>
+      <td>Identification of causal variants in coronary artery disease</td>
+      <td>M2</td>
+      <td>100%</td>
+      <td>September 2022 to June 2023</td>
     </tr>
-       <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+    <tr>
+      <td>Tess Azevedo</td>
+      <td>Gene co-expression networks and module identification in livestock species</td>
+      <td>M1</td>
+      <td>33%</td>
+      <td>June to October 2022</td>
     </tr>
-       <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+    <tr>
+      <td>Smahane Chalabi</td>
+      <td>Impact of the maternal diet's fiber content on the transcriptomes and epigenomes of fetus and piglets</td>
+      <td>Postdoc</td>
+      <td>50%</td>
+      <td>October 2021 to March 2023</td>
     </tr>
-       <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+    <tr>
+      <td>Tristan Hoellinger</td>
+      <td>Genome-wide identification of enhancer/gene relationships</td>
+      <td>Master</td>
+      <td>100%</td>
+      <td>September 2020 to February 2022</td>
     </tr>
   </tbody>
 </table>
