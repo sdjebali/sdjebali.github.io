@@ -9,7 +9,7 @@ I have given the following courses:
       <tr>
       <th width=100px>Years</th>
       <th width=100px>Number of hours</th>
-      <th width=400px>Subject</th>
+      <th width=400px>Topic</th>
       <th width=200px>Audience</th>
       <th width=200px>Location</th>
     </tr>
@@ -184,13 +184,6 @@ During my career, I have (co-)supervised the following people:
       <td>Engineer</td>
       <td>80%</td>
       <td>November 2012 to October 2015</td>
-    </tr>
-    <tr>
-      <td>Angelika Merkel</td>
-      <td>Human transcriptome characterisation through the analysis of multiple types of HTS transcriptomic data</td>
-      <td>Postdoc</td>
-      <td>50%</td>
-      <td>January 2010 to November 2012</td>
     </tr>
     <tr>
       <td>Matthieu Muffato</td>
