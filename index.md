@@ -2,6 +2,7 @@
 layout: page
 title: About me
 ---
+<img src="photo_SD_ete2019.jpg" alt="SD" width="200"/>
 
 I am a researcher in bioinformatics and genomics (INSERM, [IRSD](http://www.irsd.fr/)), interested in the functional annotation of genomes through the use of NGS (Next Generation Sequencing) omics data.
 
