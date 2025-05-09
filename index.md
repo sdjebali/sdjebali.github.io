@@ -16,7 +16,7 @@ This is a complex question and although many methods exist there is no consensus
 
 For now, I would like to focus on the enhancer/gene relationships that can be obtained using chromatin conformation (3D) data, and their evolution with time, using comparative genomics on different vertebrate species.
 
-Coming back to the original question of many international functional annotation consortia I was a member of (ENCODE, mouseENCODE, FANTOM, GTEx), I would like to use enhancer/gene relationships of cell types related to a given polygenic human disease, to better fine-map the variants associated to this disease. In this context, we have recently developed [PaintorPipe](https://github.com/sdjebali/PaintorPipe) to fine-map causal variants of human traits based on GWAS summary statistics data and on functional annotations.
+Coming back to the original question of many international functional annotation consortia I was a member of (ENCODE, mouseENCODE, FANTOM, GTEx), I would like to use enhancer/gene relationships of cell types related to a given polygenic human disease, to better fine-map the variants associated to this disease. In this context, we have recently developed [PaintorPipe](https://github.com/sdjebali/PaintorPipe) to fine-map causal variants of human traits based on GWAS summary statistics data and on functional annotations. For this I am working with [Jean Monlong](https://jmonlong.github.io/) at IRSD.
 
 
 
