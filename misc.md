@@ -21,14 +21,14 @@ I have been in the following thesis juries:
       <td>Raissa Silva</td>
       <td>Montpellier</td>
       <td>Integrated analyses of large scale RNA-seq data in Acute Myeloid Leukemia</td>
-      <td>Rapporteur</td>
+      <td>Reviewer</td>
       <td>Dec 13th 2024</td>
     </tr>
     <tr>
       <td>Pierre de Langen</td>
       <td>Aix-Marseille</td>
       <td>Mapping and biological significance of transcribed intergenic regions of the human genome</td>
-      <td>Rapporteur</td>
+      <td>Reviewer</td>
       <td>March 18th 2024</td>
     </tr>
     <tr>
@@ -49,7 +49,7 @@ I have been in the following thesis juries:
 </table>
 
 ## HDR jury <a name="hdrjury"></a>
-I have been in the following HDR (Habilitation a Diriger des Recherches) juries:
+I have been in the following HDR (Habilitation a Diriger des Recherches) juries/evaluations:
 <table>
   <thead>
       <tr>
@@ -62,15 +62,29 @@ I have been in the following HDR (Habilitation a Diriger des Recherches) juries:
   </thead>
   <tbody>
     <tr>
+      <td>Camille Marchet</td>
+      <td>Univ Lille</td>
+      <td>A feeling for the index: k-mer data-structures for data reuse in large scale genomics and transcriptomics</td>
+      <td>Reviewer</td>
+      <td>Sept 4th 2025</td>
+    </tr>
+    <tr>
+      <td>Hanna Julienne</td>
+      <td>Univ Paris Sorbonne</td>
+      <td>From DNA to public health: making sense of genomic data</td>
+      <td>Reviewer</td>
+      <td>2025</td>
+    </tr>
+    <tr>
       <td>Anamaria Necsulea</td>
-      <td>Lyon 1</td>
+      <td>Univ Lyon 1</td>
       <td>Evolution and functional relevance of non-coding elements in vertebrate genomes</td>
-      <td>Rapporteur</td>
+      <td>Reviewer</td>
       <td>Jan 31st 2024</td>
     </tr>
     <tr>
       <td>Sophie Lebre</td>
-      <td>Montpellier</td>
+      <td>Univ Montpellier</td>
       <td>Applied statistics for multidisciplinary research at the interface between statistics, computer science and biology: the study of gene regulation mechanisms</td>
       <td>Examiner</td>
       <td>Apr 14th 2023</td>
