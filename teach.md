@@ -15,6 +15,13 @@ I have given the following courses:
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td>2025</td>
+      <td>2h</td>
+      <td>Functional annotation databases and their interrogation</td>
+      <td>Purpan Bioinfo group</td>
+      <td>Toulouse</td>
+    </tr>
     <tr>
       <td>2024</td>
       <td>2h</td>
