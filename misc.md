@@ -1,10 +1,10 @@
-[PhD jury](#phdjury)
+[PhD juries](#phdjury)
 
-[HDR jury](#hdrjury)
+[HDR juries](#hdrjury)
 
-[PhD committee](#phdcommittee)
+[PhD committees](#phdcommittee)
 
-## PhD jury <a name="phdjury"></a>
+## PhD juries <a name="phdjury"></a>
 I have been in the following thesis juries:
 <table>
   <thead>
@@ -48,7 +48,7 @@ I have been in the following thesis juries:
   </tbody>
 </table>
 
-## HDR jury <a name="hdrjury"></a>
+## HDR juries/evaluations <a name="hdrjury"></a>
 I have been in the following HDR (Habilitation a Diriger des Recherches) juries/evaluations:
 <table>
   <thead>
@@ -104,6 +104,18 @@ I have been/am in the following thesis committees:
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>Fiona Hak</td>
+      <td>Paris-Saclay</td>
+      <td>Novel large-scale RNA analysis methods for cancer</td>
+      <td>From 2025</td>
+    </tr>
+     <tr>
+      <td>Noemien Maillard</td>
+      <td>Toulouse</td>
+      <td>Artificial intelligence for translational genetics in agronomy</td>
+      <td>From 2024</td>
+    </tr>
     <tr>
       <td>Naomi Schickele</td>
       <td>UPS, Toulouse</td>
