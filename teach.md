@@ -88,6 +88,20 @@ During my career, I have (co-)supervised the following people:
   </thead>
   <tbody>
     <tr>
+      <td>Mathis Lafitte</td>
+      <td>Differential analysis of mirnas from array experiments</td>
+      <td>M1</td>
+      <td>100%</td>
+      <td>June-July 2025</td>
+    </tr>
+    <tr>
+      <td>Juliette Caverzan</td>
+      <td>Implementing the score 2 of cardiovascular risk in the next 10 years</td>
+      <td>L2</td>
+      <td>100%</td>
+      <td>May-June 2025</td>
+    </tr>
+    <tr>
       <td>Amel Benarbia</td>
       <td>Characterizing genomic rearrangements at transcribed loci following double stranded breaks</td>
       <td>M2</td>
