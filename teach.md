@@ -88,6 +88,20 @@ During my career, I have (co-)supervised the following people:
   </thead>
   <tbody>
     <tr>
+      <td>Victor Lefebvre</td>
+      <td>Divergence of duplicated genes' cis-regulatory landscape</td>
+      <td>M2 and now phD</td>
+      <td>33%</td>
+      <td>Since January 2024</td>
+    </tr>
+    <tr>
+      <td>Amel Benarbia</td>
+      <td>Characterizing genomic rearrangements at transcribed loci following double stranded breaks</td>
+      <td>M2</td>
+      <td>50%</td>
+      <td>January to July 2025</td>
+    </tr>
+    <tr>
       <td>Mathis Lafitte</td>
       <td>Differential analysis of mirnas from array experiments</td>
       <td>M1</td>
@@ -100,20 +114,6 @@ During my career, I have (co-)supervised the following people:
       <td>L2</td>
       <td>100%</td>
       <td>May-June 2025</td>
-    </tr>
-    <tr>
-      <td>Amel Benarbia</td>
-      <td>Characterizing genomic rearrangements at transcribed loci following double stranded breaks</td>
-      <td>M2</td>
-      <td>50%</td>
-      <td>January to July 2025</td>
-    </tr>
-    <tr>
-      <td>Victor Lefebvre</td>
-      <td>Divergence of duplicated genes' cis-regulatory landscape</td>
-      <td>M2 and now phD</td>
-      <td>33%</td>
-      <td>Since January 2024</td>
     </tr>
     <tr>
       <td> Océane Carpentier</td>
